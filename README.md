@@ -44,6 +44,17 @@ I enjoy building AI systems that are not only smart, but also **useful, scalable
 
 Bittensor is a decentralized machine intelligence network where specialized subnets coordinate miners and validators around useful AI tasks. I focus on building subnet systems where model performance, incentive design, infrastructure reliability, and real-world utility all work together.
 
+### 🧬 Bittensor Engineering Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bittensor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAO-Economy-7E3ACE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subnet_Development-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Miner_Operator-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Validator_Tooling-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decentralized_AI-1E3A8A?style=for-the-badge" />
+</p>
+
 ### 🔥 Bittensor Focus Areas
 
 - **Subnet Development**
@@ -115,33 +126,6 @@ Bittensor is a decentralized machine intelligence network where specialized subn
 
 ---
 
-## 🧬 Bittensor Engineering Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bittensor-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAO-Economy-7E3ACE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Subnet_Development-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Miner_Operator-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Validator_Tooling-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Decentralized_AI-1E3A8A?style=for-the-badge" />
-</p>
-
-### 🛠️ Bittensor Capabilities
-
-- **Subnet protocol design**
-- **Miner implementation**
-- **Validator implementation**
-- **Reward function engineering**
-- **Synthetic task generation**
-- **Scoring and benchmarking**
-- **Metagraph monitoring**
-- **Wallet / hotkey / coldkey operations**
-- **GPU miner deployment**
-- **Dockerized subnet infrastructure**
-- **Logging, metrics, and observability**
-- **Latency and throughput optimization**
-
----
 
 ## 🛠️ Tech Stack
 
