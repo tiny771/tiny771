@@ -238,16 +238,22 @@ Bittensor is a decentralized machine intelligence network where specialized subn
 
 ## 📈 GitHub Stats
 
-<hr/>
-
-<a href="https://github.com/tiny771">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny771&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny GitHub Stats" />
-</a>
-<a href="https://github.com/tiny771">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny771&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny Top Languages" />
-</a>
-
-<hr/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiny771&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+      <br/>
+ <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=tiny771&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiny771&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
