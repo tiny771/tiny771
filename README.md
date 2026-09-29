@@ -276,11 +276,11 @@ Bittensor is a decentralized machine intelligence network where specialized subn
 
 <hr/>
 
-<a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny-eng&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny-eng GitHub Stats" />
+<a href="https://github.com/tiny771">
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=tiny771&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="tiny GitHub Stats" />
 </a>
-<a href="https://github.com/tiny-eng">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny-eng&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny-eng Top Languages" />
+<a href="https://github.com/tiny771">
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=tiny771&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="tiny Top Languages" />
 </a>
 
 <hr/>
