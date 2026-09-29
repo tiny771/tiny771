@@ -4,14 +4,6 @@
   Hi :) I'm an AI Engineer & Bittensor Subnet Developer 
 </h1>
 
-<h3 align="center">
-  💜 Building decentralized intelligence, autonomous agents, and production-grade AI systems 💜
-</h3>
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage">
-</p>
-
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
 </p>
@@ -243,18 +235,6 @@ Bittensor is a decentralized machine intelligence network where specialized subn
 
 ---
 
-## 🏗️ Featured Areas of Work
-
-| **Area** | **What I Build** | **Core Skills** |
-|---|---|---|
-| **Bittensor Subnets** | Miner / validator protocols, reward logic, scoring systems | Python, Bittensor, Subtensor, Docker |
-| **AI Miners** | GPU inference miners, monitoring, optimization | PyTorch, CUDA, FastAPI, Linux |
-| **Agentic AI** | Autonomous workflows and tool-using agents | LangGraph, LangChain, LLM APIs |
-| **Enterprise RAG** | Knowledge engines and retrieval systems | Qdrant, PostgreSQL, embeddings |
-| **Production ML** | End-to-end ML systems and inference APIs | MLOps, FastAPI, Docker, cloud |
-| **Fullstack AI Apps** | AI-powered dashboards and platforms | Next.js, React, TypeScript, APIs |
-
----
 
 ## 📈 GitHub Stats
 
